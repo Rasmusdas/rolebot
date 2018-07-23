@@ -58,4 +58,4 @@ async def on_raw_reaction_remove(rawReaction):
         except:
             pass
 
-client.run('NDY4NDExMDQ3MjU5NDA2MzY2.DjdqYw.7aisjM8L6IJv-qdgTX44CO-JNps')
+client.run('TOKEN')
